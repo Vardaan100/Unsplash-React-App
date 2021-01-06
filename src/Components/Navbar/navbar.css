@@ -1,0 +1,7 @@
+.nav-menu{
+    display:grid;
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 10px;
+    justify-content: start;
+    margin-right:2rem;
+}
